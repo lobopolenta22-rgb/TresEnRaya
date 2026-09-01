@@ -2,8 +2,10 @@
 <resources>
     <dimen name="textsizetitle">40sp</dimen>
     <dimen name="marginTop">40dp</dimen>
+    <dimen name="marginTopFirst">100dp</dimen>
     <dimen name="buttonWidth">100dp</dimen>
     <dimen name="dimenHeigth">100dp</dimen>
     <dimen name="buttonMargin">5dp</dimen>
     <dimen name="textSizeNormal">20sp</dimen>
+    <dimen name="buttonTextSize">50sp</dimen>
 </resources>

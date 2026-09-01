@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">2026_TresEnRaya</string>
     <string name="appTitle">Tres en Raya</string>
-    <string name="player">Turno del jugador X</string>
+    <string name="playerX">Turno del jugador X</string>
+    <string name="playerO">Turno del jugador O</string>
+    <string name="playerXwin">Gano el jugador X</string>
+    <string name="playerOwin">Gano el jugador O</string>
     <string name="Restart">Reiniciar juego</string>
 </resources>
